@@ -1,1 +1,1 @@
-# ParallelGA
+# ParallelGA with local search
